@@ -9,7 +9,7 @@ html lang="en">
 </head>
 <body>
     <header class="header">
-       <a href=""></a>
+       <a href="#" class="logo">Logo</a>
         <i class='bx bx-menu' id="menu-icon">icono</captura></i>
         <nav class="navbar">
             <a href="#">Home</a>
